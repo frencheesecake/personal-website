@@ -5,7 +5,7 @@ A small project of my website using React, Tailwind for CSS, and Spline design f
 ![Example screenshot](./screenshot.png)
 > View live demo [_here_](http://frencheesecake.github.io/personal-website/).
 
-## Requirements and Dependencies
+## Tools
 - React App
 - Spline Design Tool
 - Tailwind CSS
