@@ -6,8 +6,8 @@ A small project of my website using React, Tailwind for CSS, and Spline design f
 > View live demo [_here_](http://frencheesecake.github.io/personal-website/).
 
 ## Tools
-- React App
-- Spline Design Tool
+- React JS
+- Spline
 - Tailwind CSS
 
 
