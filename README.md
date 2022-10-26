@@ -1,4 +1,4 @@
-# My Personal Website
+# 3D for Personal Website
 
 A small project of my website using React, Tailwind for CSS, and Spline design for 3D Graphics.
 
@@ -7,7 +7,7 @@ A small project of my website using React, Tailwind for CSS, and Spline design f
 
 ## Tools
 - React App
-- Spline Design Tool
+- Spline
 - Tailwind CSS
 
 
