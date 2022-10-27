@@ -1,23 +1,38 @@
 {
   "files": {
-    "main.css": "/personal-website/static/css/main.157dd6e3.css",
-    "main.js": "/personal-website/static/js/main.d269a3ca.js",
+    "main.css": "/personal-website/static/css/main.3b2885cf.css",
+    "main.js": "/personal-website/static/js/main.99265547.js",
     "static/js/227.9347be41.chunk.js": "/personal-website/static/js/227.9347be41.chunk.js",
     "static/js/526.895e93b7.chunk.js": "/personal-website/static/js/526.895e93b7.chunk.js",
     "static/js/232.d5ce1020.chunk.js": "/personal-website/static/js/232.d5ce1020.chunk.js",
     "static/js/787.5809834d.chunk.js": "/personal-website/static/js/787.5809834d.chunk.js",
+    "static/media/dwat.png": "/personal-website/static/media/dwat.2c4cddbbf116424c417d.png",
+    "static/media/hart.jpg": "/personal-website/static/media/hart.901ac2a6d049eab8147b.jpg",
+    "static/media/Untitled93_20210625041046_3.png": "/personal-website/static/media/Untitled93_20210625041046_3.0462708be42ddb6a1cf4.png",
+    "static/media/rosemary.jpg": "/personal-website/static/media/rosemary.daf69a64b85a06814943.jpg",
+    "static/media/mecha_android_000prev.jpg": "/personal-website/static/media/mecha_android_000prev.2fe9bb54cea63b033f2c.jpg",
+    "static/media/nge1.jpg": "/personal-website/static/media/nge1.11b37c5de180cb36a229.jpg",
+    "static/media/Icon_Krita.png": "/personal-website/static/media/Icon_Krita.ef5859ce7f026299aead.png",
+    "static/media/character-concept.jpg": "/personal-website/static/media/character-concept.45dfa06de3e70ddf1d76.jpg",
+    "static/media/instagram.png": "/personal-website/static/media/instagram.e719d8b29f452a16302d.png",
+    "static/media/tablet.png": "/personal-website/static/media/tablet.cbcfbb2d9a3bf5d9adce.png",
+    "static/media/coding.png": "/personal-website/static/media/coding.5b8dbc13adb163e8022e.png",
+    "static/media/ibis-paint-x.png": "/personal-website/static/media/ibis-paint-x.5ba23d2b230526add4ea.png",
     "static/media/github.png": "/personal-website/static/media/github.44eee0c4a6c25b0d7347.png",
+    "static/media/facebook.png": "/personal-website/static/media/facebook.01a470d813915c298403.png",
+    "static/media/twitter.png": "/personal-website/static/media/twitter.894988327f8d68209e91.png",
     "static/media/artstation.png": "/personal-website/static/media/artstation.f85d7352a06b1d6390c1.png",
+    "static/media/photoshop.png": "/personal-website/static/media/photoshop.c9712f98a72b8ed0fdf7.png",
     "index.html": "/personal-website/index.html",
-    "main.157dd6e3.css.map": "/personal-website/static/css/main.157dd6e3.css.map",
-    "main.d269a3ca.js.map": "/personal-website/static/js/main.d269a3ca.js.map",
+    "main.3b2885cf.css.map": "/personal-website/static/css/main.3b2885cf.css.map",
+    "main.99265547.js.map": "/personal-website/static/js/main.99265547.js.map",
     "227.9347be41.chunk.js.map": "/personal-website/static/js/227.9347be41.chunk.js.map",
     "526.895e93b7.chunk.js.map": "/personal-website/static/js/526.895e93b7.chunk.js.map",
     "232.d5ce1020.chunk.js.map": "/personal-website/static/js/232.d5ce1020.chunk.js.map",
     "787.5809834d.chunk.js.map": "/personal-website/static/js/787.5809834d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.157dd6e3.css",
-    "static/js/main.d269a3ca.js"
+    "static/css/main.3b2885cf.css",
+    "static/js/main.99265547.js"
   ]
 }
