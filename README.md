@@ -1,3 +1,6 @@
+#### ⚠️ Note: This project is outdated.
+
+
 # 3D for Personal Website
 
 A small project of my website using React, Tailwind for CSS, and Spline design for 3D Graphics.
